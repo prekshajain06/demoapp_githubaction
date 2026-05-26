@@ -1,1 +1,1 @@
-## This is a python app for exploring github actions
+## This is a python app for exploring github actions.
